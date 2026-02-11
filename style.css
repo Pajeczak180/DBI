@@ -107,6 +107,9 @@ footer{
     margin-top: 100px;
     margin-right: 5px;
 }
+.f1{
+    margin-left: 10px;
+}
 .e1{
     position: absolute;
     float: left;
@@ -227,4 +230,5 @@ footer{
     border-radius: 20px;
     font-size: 20px;
     float: left;
+
 }
